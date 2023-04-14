@@ -9,3 +9,6 @@ During this experiment, we acquired knowledge about
 * Few new widgets such as Padding, Margin, FloatingActionButton.
 * onPress activity
 
+## Screenshots
+
+![plot](./assets/screenshots/screenshot_1.png?raw=true)
