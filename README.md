@@ -1,6 +1,6 @@
 # Experiment No 3: Profile Page App
 
-To develop a profile page feature for our Flutter application (Stateful)
+To develop a profile page feature for our Flutter application (Stateful).
 
 ## About Experiment
 
