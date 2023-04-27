@@ -11,4 +11,4 @@ During this experiment, we acquired knowledge about
 
 ## Screenshots
 
-![plot](./assets/screenshots/screenshot_1.png?raw=true)
+![WhatsApp Image 2023-04-26 at 2 24 37 PM](https://user-images.githubusercontent.com/78201104/234843629-0e3b00a7-9d56-470a-97d9-6baa2dab811d.jpeg)
